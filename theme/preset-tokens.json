@@ -20,19 +20,12 @@
                     "inverseColor": "#ffffff",
                     "hoverColor": "#2977c7",
                     "activeColor": "#0f457d"
-                },
-                "highlight": {
-                    "background": "rgba(29, 93, 165, 0.16)",
-                    "focusBackground": "rgba(29, 93, 165, 0.24)",
-                    "color": "rgba(255, 255, 255, 0.87)",
-                    "focusColor": "rgba(255, 255, 255, 0.87)"
                 }
             }
         }
     },
     "tokens": {
         "fontFamily": "'Nunito Sans', sans-serif",
-        "fontSize": "14px",
-        "borderRadius": "8px"
+        "fontSize": "16px"
     }
 }
