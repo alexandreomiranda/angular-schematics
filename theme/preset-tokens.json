@@ -23,26 +23,5 @@
                 }
             }
         }
-    },
-    "components": {
-        "button": {
-            "root": {
-                "paddingX": "2rem",
-                "paddingY": "1rem",
-                "borderRadius": "1rem",
-                "fontSize": "0.9rem"
-            },
-            "colorScheme": {
-                "light": {
-                    "primary": {
-                        "background": "#1d5da5",
-                        "hoverBackground": "#2977c7",
-                        "activeBackground": "#0f457d",
-                        "borderColor": "#1d5da5",
-                        "color": "#ffffff"
-                    }
-                }
-            }
-        }
     }
 }

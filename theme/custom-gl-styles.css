@@ -1,0 +1,26 @@
+/*** Global Variables ***/
+:root {
+  /* tokens override */
+  --p-border-radius-md: 20px;
+  --p-button-border-radius: 20px !important;
+}
+
+/*** PrimeNG Reset ***/
+@layer reset, primeng;
+@layer reset {
+  .p-button-label {
+    font-size: 0.875rem;
+  }
+}
+/*** Global Styles ***/
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+/*# sourceMappingURL=custom-gl-styles.css.map */
