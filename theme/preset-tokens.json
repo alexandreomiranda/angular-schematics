@@ -26,6 +26,11 @@
     },
     "tokens": {
         "fontFamily": "'Nunito Sans', sans-serif",
-        "fontSize": "14px"
+        "fontSize": "14px",
+        "borderRadius": "8px",
+        "--p-button-font-size": "0.75rem",
+        "--p-button-label-font-weight": "700",
+        "--p-button-sm-font-size": "1rem",
+        "--p-input-border-color": "#444"
     }
 }
