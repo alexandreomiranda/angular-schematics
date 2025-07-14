@@ -28,7 +28,6 @@
         "button": {
             "root": {
                 "borderRadius": "1rem"
-                
             }
         }
     }
