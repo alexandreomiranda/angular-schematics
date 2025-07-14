@@ -1,0 +1,38 @@
+{
+    "semantic": {
+        "primary": {
+            "50": "#d0e4fb",
+            "100": "#a3ccf7",
+            "200": "#73b1f0",
+            "300": "#4292e0",
+            "400": "#2977c7",
+            "500": "#1d5da5",
+            "600": "#155091",
+            "700": "#0f457d",
+            "800": "#0a3a6a",
+            "900": "#052c55",
+            "950": "#00152b"
+        },
+        "colorScheme": {
+            "dark": {
+                "primary": {
+                    "color": "#1d5da5",
+                    "inverseColor": "#ffffff",
+                    "hoverColor": "#2977c7",
+                    "activeColor": "#0f457d"
+                },
+                "highlight": {
+                    "background": "rgba(29, 93, 165, 0.16)",
+                    "focusBackground": "rgba(29, 93, 165, 0.24)",
+                    "color": "rgba(255, 255, 255, 0.87)",
+                    "focusColor": "rgba(255, 255, 255, 0.87)"
+                }
+            }
+        }
+    },
+    "tokens": {
+        "fontFamily": "'Nunito Sans', sans-serif",
+        "fontSize": "14px",
+        "borderRadius": "8px"
+    }
+}
