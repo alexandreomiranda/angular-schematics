@@ -26,8 +26,12 @@
     },
     "components": {
         "button": {
-            "paddingX": "5rem",
-            "paddingY": "2rem",
+            "root": {
+                "paddingX": "2rem",
+                "paddingY": "1rem",
+                "borderRadius": "1rem",
+                "fontSize": "0.9rem"
+            },
             "colorScheme": {
                 "light": {
                     "primary": {
@@ -35,15 +39,7 @@
                         "hoverBackground": "#2977c7",
                         "activeBackground": "#0f457d",
                         "borderColor": "#1d5da5",
-                        "hoverBorderColor": "#2977c7",
-                        "activeBorderColor": "#0f457d",
-                        "color": "#ffffff",
-                        "hoverColor": "#ffffff",
-                        "activeColor": "#ffffff",
-                        "focusRing": {
-                            "color": "#ffffff",
-                            "shadow": "none"
-                        }
+                        "color": "#ffffff"
                     }
                 }
             }
