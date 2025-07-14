@@ -14,7 +14,7 @@
             "950": "#00152b"
         },
         "colorScheme": {
-            "dark": {
+            "light": {
                 "primary": {
                     "color": "#1d5da5",
                     "inverseColor": "#ffffff",
